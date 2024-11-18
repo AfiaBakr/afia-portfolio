@@ -1,0 +1,35 @@
+{
+  "name": "extra-one",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@heroicons/react": "^2.1.5",
+    "@next/swc-win32-x64-msvc": "^15.0.3",
+    "@vercel/postgres": "^0.10.0",
+    "framer-motion": "^11.11.17",
+    "motion": "^11.11.17",
+    "next": "14.2.13",
+    "react": "^18.3.1",
+    "react-animated-numbers": "^0.18.0",
+    "react-dom": "^18",
+    "react-icons": "^5.3.0",
+    "react-type-animation": "^3.2.0",
+    "resend": "^4.0.1-alpha.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.13",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5"
+  }
+}
